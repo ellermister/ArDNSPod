@@ -23,6 +23,8 @@ arDdnsCheck "test.org" "subdomain"
 ```
 
 # 最近更新
+2020/1/2
+- 解决接口更新后domainID获取不到的问题
 
 2015/2/24
 - 增加token鉴权方式 (by wbchn)
